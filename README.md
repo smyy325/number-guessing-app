@@ -1,16 +1,28 @@
-# sayi_tahmin
+# Number Guessing App
 
-A new Flutter project.
+This is a simple Flutter application consisting of three screens where the player attempts to guess a randomly generated number. The game has the following screens:
 
-## Getting Started
+1. **Entry Screen**: The initial screen where the player starts the game.
+2. **Guessing Screen**: The screen where the player inputs their guesses.
+3. **Result Screen**: The screen displaying the result, showing whether the player has won or lost.
 
-This project is a starting point for a Flutter application.
+## Screens
 
-A few resources to get you started if this is your first Flutter project:
+### Entry Screen
+- The player starts the game by pressing a button.
+- A random number is generated.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Guessing Screen
+- The player enters their guesses to try and match the random number.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Result Screen
+- Displays "You Won!" if the player guessed the number correctly.
+- Displays "You Lost!" if the player did not guess the number.
+
+## How to Run
+
+To run this project, ensure you have Flutter installed. Clone the repository and use the following commands in your terminal:
+
+```sh
+flutter pub get
+flutter run
