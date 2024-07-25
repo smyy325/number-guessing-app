@@ -63,6 +63,7 @@ flutter:
     - images/mutlu.png
     - images/uzgun.png
     - images/zar.png
+    - videos/sayitahmin.mp4
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
