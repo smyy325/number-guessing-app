@@ -23,7 +23,6 @@ This is a simple Flutter application consisting of three screens where the playe
 ## App Video and Images
 
 ![App Video](videos/sayitahmin.mp4)
-![Ekran görüntüsü 2024-07-25 174815](https://github.com/user-attachments/assets/2e942e75-2acf-4abc-8532-05082d8f8fa7)
 ![Ekran görüntüsü 2024-07-25 174732](https://github.com/user-attachments/assets/ea7f5c68-4c86-4c98-afe9-17c2f30d4c68)
 ![Ekran görüntüsü 2024-07-25 174815](https://github.com/user-attachments/assets/2e942e75-2acf-4abc-8532-05082d8f8fa7)
 ![Ekran görüntüsü 2024-07-25 175032](https://github.com/user-attachments/assets/9565c33f-f8ed-4e07-8064-663494d90050)
